@@ -477,17 +477,6 @@ A few settings you may want to change for your own machine:
 - **`github.copilot.enable`**: Copilot is disabled for all languages in this config. Remove the block to re-enable it.
 - **`workbench.colorCustomizations`**: edit the hex values to create your own color variant.
 
----
-
-## 🤝 Contributing
-
-Suggestions and improvements are welcome.
-
-1. Fork the repository
-2. Create a branch: `git checkout -b feature/my-improvement`
-3. Commit your changes: `git commit -m "Add my improvement"`
-4. Push the branch: `git push origin feature/my-improvement`
-5. Open a Pull Request
 
 ---
 
